@@ -15,4 +15,4 @@ for i in lista:
         lista_positivos.append(i)
         media = sum(lista_positivos)/len(lista_positivos)
 print(f"{contador} valores positivos")
-print(f"{media}")
+print(f"{media:.1f}")
