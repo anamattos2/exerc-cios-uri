@@ -6,5 +6,4 @@ for i in range (0,quantidade):
 
 lista_nova = list(set(lista))
 quantidade = len(lista_nova)
-print(lista)
 print(f"Falta(m) {151-quantidade} pomekon(s).")
